@@ -4,6 +4,9 @@
 ## 白皮书
 - [github](https://github.com/ethereum/wiki/wiki/White-Paper)
 
+## 代码
+- None
+
 ## 团队
 - 李婷婷 Lee Ting Ting
 > Blockchain enthusiast, hackathon lover, amateur model,and full stack web developer. IG: tinaaaaalee linkedin: linkedin.com/in/leetingting gitnub: tina1998612
@@ -25,9 +28,6 @@
 - Hsieh Yung-chen
 - NIC Lin
 - 徐粲邦
-
-## 代码
-- None
 
 ## 参考
 - [Wiki](https://github.com/EtherTW/Taipei-Ethereum-Wiki/wiki)
