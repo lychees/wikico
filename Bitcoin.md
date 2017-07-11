@@ -1,6 +1,6 @@
 ## 比特币交易所的历史
 - Mt. Gox（已停止运营）
-> Mt.Gox网站本来是一个卡牌游戏《魔法风云会》同好的线上买卖交易平台，由Jed McCaleb所创设，其命名源于魔法风云会英文名称（Magic: The Gathering Online eXchange）的首字母略缩字。McCaleb后将其转变为一个比特币交易平台，并在2011年将其卖给了Mark Karpeles。在后者的管理下，Mt.Gox一度成长为世界上最大的比特币交易所，承担全球超过70%的比特币交易。［4］McMillan, Robert; Metz, Cade. [The rise and fall of the world's largest Bitcoin exchange](https://www.wired.com/2013/11/mtgox/). Wired (Condé Nast). 6 November 2013 [8 February 2014].
+> Mt.Gox网站本来是一个卡牌游戏《魔法风云会》同好的线上买卖交易平台，由Jed McCaleb所创设，其命名源于魔法风云会英文名称（Magic: The Gathering Online eXchange）的首字母略缩字。McCaleb后将其转变为一个比特币交易平台，并在2011年将其卖给了Mark Karpeles。在后者的管理下，Mt.Gox一度成长为世界上最大的比特币交易所，承担全球超过70%的比特币交易。
 - ANX国际
 > ANX国际成立于2013年6月17日，由卢建邦，Dave Chapman，Hugh Madden联合创立。
 于2014年2月28日，ANX国际在香港西营盘成立全球首家比特币交易实体店，支持比特币和港币之间的兑换。 这标志着ANX国际成为线上线下兼备的数字交易平台。
@@ -28,50 +28,50 @@ On July 31, 2012, BTC-e had their Liberty Reserve API Key compromised, the attac
 During 2013 and 2014, BTC-e had many outages related to Distributed Denial of Service attacks.They later began using the reverse proxy service CloudFlare to help mitigate these attacks, reducing downtime for the exchange.
 
 ## 现存的比特币交易所
-- ANX国际 - anxintl.com - anxbtc.com - anxpro.com
-- Gatecoin - gatecoin.com
-- BitStamp - bitstamp.net
-- Bitfinex - bitfinex.com
-- BTC-e - btc-e.com
-- 上海萨图西网络有限公司 - btcchina.com
-- Coinsecure - coinsecure.in
-- Coinbase - coinbase.com
-- Coinfloor - coinfloor.co.uk
-- Huobi - huobi.com
-- ItBit - itbit.com
-- Kraken - kraken.com
-- LocalBitcoins - localbitcoins.com/zh-cn/
-- OKCoin - okcoin.com
-- 比特币交易网 - btctrade.com
-- 比特儿 - Bter.com
-- 中国比特币 - chbtc.com
-- 796交易所 - 796.com
-- 比特时代 - btc38.com
-- 币贝网 - BitBays.com
-- 云币网 - yunbi.com
+- ANX国际 - [anxintl.com](anxintl.com) - [anxbtc.com](anxbtc.com) - [anxpro.com](anxpro.com)
+- Gatecoin - [gatecoin.com](gatecoin.com)
+- BitStamp - [bitstamp.net](bitstamp.net)
+- Bitfinex - [bitfinex.com](bitfinex.com)
+- BTC-e - [btc-e.com](btc-e.com)
+- 上海萨图西网络有限公司 - [btcchina.com](btcchina.com)
+- Coinsecure - [coinsecure.in](coinsecure.in)
+- Coinbase - [coinbase.com](coinbase.com)
+- Coinfloor - [coinfloor.co.uk](coinfloor.co.uk)
+- Huobi - [huobi.com](huobi.com)
+- ItBit - [itbit.com](itbit.com)
+- Kraken - [kraken.com](kraken.com)
+- LocalBitcoins - [localbitcoins.com](localbitcoins.com/zh-cn/)
+- OKCoin - [okcoin.com](okcoin.com)
+- 比特币交易网 - [btctrade.com](btctrade.com)
+- 比特儿 - [Bter.com](Bter.com)
+- 中国比特币 - [chbtc.com](chbtc.com)
+- 796交易所 - [796.com](796.com)
+- 比特时代 - [btc38.com](btc38.com)
+- 币贝网 - [BitBays.com](BitBays.com)
+- 云币网 - [yunbi.com](yunbi.com)
 
 ## 比特币手机钱包
-- bitcoin wallet - bitcoin.org/zh_CN/choose-your-wallet
-- Blockchain’s My wallet - blockchain.info/wallet/android-app
-- Mycelium - wallet.mycelium.com
-- breadwallet - breadwallet.com
-- Copay - copay.io
-- Airbitz - airbitz.co
+- bitcoin wallet - [bitcoin.org](bitcoin.org/zh_CN/choose-your-wallet)
+- Blockchain’s My wallet - [blockchain.info](blockchain.info/wallet/android-app)
+- Mycelium - [wallet.mycelium.com](wallet.mycelium.com)
+- breadwallet - [breadwallet.com](breadwallet.com)
+- Copay - [copay.io](copay.io)
+- Airbitz - [airbitz.co](airbitz.co)
 - GreenBits - [play.google.com](play.google.com/store/apps/details?id=com.greenaddress.greenbits_android_wallet&hl=en)
 - 比特币钱包 - [play.google.com](play.google.com/store/apps/details?id=com.coinbase.android)
-- 比太 - bither.net
-- 比特派 - bitpie.com
+- 比太 - [bither.net](bither.net)
+- 比特派 - [bitpie.com](bitpie.com)
 
 ## 去中心化交易所
--  BitShares 2.0[1] - bitshares.org - [[White paper]](http://mp.weixin.qq.com/s?__biz=MzA3NTg1MjE0Ng==&mid=401480192&idx=1&sn=279f6dbf46d4e41aad0b4beb56344948&scene=18#wechat_redirect) - [[Github]](https://github.com/bitshares)
--  Bitsquare - bitsquare.io - [[White paper]](https://bitsquare.io/bitsquare.pdf) - [[Github]](https://github.com/bitsquare/bitsquare)
-- Agama[2] - agama.me/zh.html - [[White paper]](https://www.agama.me/zh/technology/whitepapers.html)  - [[Github]](https://github.com/SuperNETorg/Agama)
-- Omni - omnilayer.org - [[Github]](https://github.com/OmniLayer/)
-- OpenLedger - openledger.info
-- Compumatrix - compumatrix.co
-- 比特帝国[3] - bit.btsabc.org - [[Github]](https://github.com/btsabc/bit.btsabc.org) 
-- Freedomledger - freedomledger.com
-- BTSBots - btsbots.com
+-  BitShares 2.0[1] - [bitshares.org](bitshares.org) - [[White paper]](http://mp.weixin.qq.com/s?__biz=MzA3NTg1MjE0Ng==&mid=401480192&idx=1&sn=279f6dbf46d4e41aad0b4beb56344948&scene=18#wechat_redirect) - [[Github]](https://github.com/bitshares)
+-  Bitsquare - [bitsquare.io](bitsquare.io) - [[White paper]](https://bitsquare.io/bitsquare.pdf) - [[Github]](https://github.com/bitsquare/bitsquare)
+- Agama[2] - [agama.me](agama.me/zh.html) - [[White paper]](https://www.agama.me/zh/technology/whitepapers.html)  - [[Github]](https://github.com/SuperNETorg/Agama)
+- Omni - [omnilayer.org](omnilayer.org) - [[Github]](https://github.com/OmniLayer/)
+- OpenLedger - [openledger.info](openledger.info)
+- Compumatrix - [compumatrix.co](compumatrix.co)
+- 比特帝国[3] - [bit.btsabc.org](bit.btsabc.org) - [[Github]](https://github.com/btsabc/bit.btsabc.org) 
+- Freedomledger - [freedomledger.com](freedomledger.com)
+- BTSBots - [btsbots.com](btsbots.com)
 
 ## 参考
 - [1] [【Bitfinex is another Mt.Gox?! 】去中心化交易所 BitShares 2.0 让你 say Bye-bye to "Mt.Gox"](https://steemit.com/crypot-news/@imyao/bitfinex-is-another-mt-gox-bitshares-2-0-say-bye-bye-to-mt-gox)
